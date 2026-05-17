@@ -1,0 +1,2 @@
+L'Utente 1 ha tutti i prvilegi per la gestione del sito, quindi è preferibile creare account separati per ogni utente amministratore, assegnando loro il ruolo di Amministratore, piuttosto che far accedere tutti gli utenti amministrativi con l'account Utente 1.
+E' possibile installare il modulo [Paranoia](https://www.drupal.org/project/paranoia) per disabilitare l'editing dell'Utente 1

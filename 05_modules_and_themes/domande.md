@@ -25,3 +25,10 @@
 - B) The #support Slack channel ✅
 - C) Post the question to a group on groups.drupal.org
 - D) Email the module's maintainer and ask form help
+
+
+> Which term describes modules that are not part of the initial Drupal installation but are downloaded from the community website?
+- A) Internal modules
+- B) System modules
+- C) Contributed modules ✅
+- D) Core modules
