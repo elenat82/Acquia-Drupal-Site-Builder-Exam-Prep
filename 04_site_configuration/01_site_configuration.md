@@ -7,3 +7,5 @@
  Per evitare rischi prima di importare config da un altro ambiente, esportare la prpria config attiva e controllare le differenze con Git.
 
  Fare anche un dump del database per uteriore sicurezza.
+
+ Usare il modulo Environment indicator per avere un indicatore visivo dell'ambiente in cui ci si trova.
