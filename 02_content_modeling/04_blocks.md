@@ -1,0 +1,2 @@
+I blocchi sono elementi del layout della pagina e vengono posizionati all'interno delle varie regioni di un tema. Anche il contenuto principale della pagina è un blocco. Ogni blocco ha le proprie impostazioni di configurazione, che consentono di selezionare le pagine del sito in cui verrà visualizzato.
+Alcuni blocchi sono già presenti di default, altri sono forniti da moduli, altri possono essere creati custom dall'interfaccia. 
