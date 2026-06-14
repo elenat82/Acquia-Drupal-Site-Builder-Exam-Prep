@@ -1,6 +1,6 @@
 # Acquia Site Builder Certification Prep
 
-Appunti in italiano per la mia preparazione alla certificazione Acquia Drupal 10 Site Builder.
+Appunti in italiano per la mia preparazione alla certificazione Acquia Drupal 10 Site Builder **✅ Passato a giugno 2026**.
 
 ## Argomenti d'esame
 | Domain | % of Questions |
